@@ -1,0 +1,13 @@
+text txt 
+
+npm (Node Package Manager):
+Purpose: Package manager for Node.js, facilitating the installation and management of JavaScript packages.
+
+
+npm command :
+# Install a Package: npm install <package-name>
+# Check Package Version:npm show <package-name> version
+
+git remote add origin https://github.com/Saadkok/node-js-test-repo.git
+git branch -M main
+git push -u origin main
